@@ -1,0 +1,316 @@
+/**********************************************************************************
+
+	Theme Name: FotoPortfolio
+	Theme URI: 
+	Description: A portfolio theme for photgraphers
+	Version: 1.0
+	Author:	Asutosh Panda
+	Author URI: #
+	License: GNU General Public License version 3.0
+	License URI: #
+	Tags: 
+
+**********************************************************************************/
+
+
+
+
+
+
+
+
+@import url(http://fonts.googleapis.com/css?family=Economica);
+
+
+
+
+
+.portfolio-name
+{
+    font-family: 'Economica', sans-serif;
+
+font-weight: 400;
+    padding-left: 5px;
+    font-size: 1.4em;
+    opacity:1;
+    z-index: 1;
+    float: left;
+    color: white;
+    padding: 18px;
+    
+
+
+    
+}
+
+
+
+.opacity
+{
+
+background-color: #fff;
+	opacity: 0.5;
+}
+
+body
+{
+    background-image: url('dusk.png');
+    background-repeat: repeat-x ; background-repeat: inherit ;
+}
+
+.containerr
+{
+    width:950px;
+    margin: 0 auto;
+    
+   
+}   
+
+
+
+.menu
+{
+    width: 944px;
+margin-top: 10px;
+
+     z-index:0;
+    height: 60px;
+    margin-bottom: 10px;
+    background-color: black;
+	opacity: 0.5;
+        text-decoration: none;
+    
+    
+
+
+text-align:right;
+
+}
+
+
+
+
+
+.contact-link a
+{
+    
+   
+      opacity: 1;
+      color: white;
+      font-size:  1.2em;
+float: right;
+    text-decoration: none;
+    color: white;
+    padding: 19px;
+    font-family: 'Economica', sans-serif;
+}
+
+
+.contact-link a:hover
+{
+    color: gray;
+    text-decoration: none;
+    font-size:  1.1em;
+    font-family: 'Economica', sans-serif;
+}
+
+
+.about-link a
+{
+    padding: 19px;
+   padding-left: 20px;
+      opacity: 1;
+      color: white;
+      font-size:  1.2em;
+float: right;
+
+    text-decoration: none;
+    color: white;
+ font-family: 'Economica', sans-serif;
+}
+
+
+.about-link a:hover
+{
+    color: gray;
+    text-decoration: none;
+    font-size:  1.1em;
+    font-family: 'Economica', sans-serif;
+}
+
+
+
+
+.logo
+{
+    float: left;
+    
+    
+
+
+}
+
+.box1
+{
+    width: 32%;
+    float: left;
+    height: 200px;
+    margin-right: 16px;
+    
+    margin-top:20px;
+    background-color: black;
+	opacity: 0.5;
+
+}
+
+
+
+.box2
+{
+    width: 32%;
+    float:left;
+    height: 200px;
+    
+    margin: 0 auto;
+    margin-top:20px;
+        background-color: black;
+	opacity: 0.5;
+
+}
+
+.box3
+{
+    width: 32%;
+    float: left;
+    height: 200px;
+    margin-left: 16px;
+   
+    margin-top:20px;
+        background-color: black;
+	opacity: 0.5;
+
+}
+
+.box4
+{
+    width: 32%;
+    float: left;
+    height: 200px;
+    margin-right: 16px;
+   
+    margin-top:20px;
+        background-color: black;
+	opacity: 0.5;
+
+    
+}
+
+.box5
+{
+    width: 32%;
+    float:left;
+    height: 200px;
+    
+    margin: 0 auto;
+    margin-top:20px;
+        background-color: black;
+	opacity: 0.5;
+
+}
+
+.box6
+{
+    width: 32%;
+    float: left;
+    height: 200px;
+    margin-left: 16px;
+    
+    margin-top:20px;
+       background-color: black;
+	opacity: 0.5;
+
+}
+
+
+
+.box-shadow
+{
+    -webkit-box-shadow: 0px 1px 8px white;
+-moz-box-shadow:    0px 1px 8px white;
+box-shadow:         0px 1px 8px white;
+}
+
+
+.footer
+{
+    width: 944px;
+
+
+   
+    height: 90px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: black;
+	opacity: 0.5;
+    float: left;
+}
+
+.about-me
+{
+    width: 944px;
+
+
+   
+   
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: black;
+	opacity: 0.5;
+    float: left;
+}
+
+.contact-me
+{
+    width: 944px;
+padding: 20px;
+    padding-right:90px;
+    padding-left:90px;
+ padding-top: 30px;
+   
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: black;
+	opacity: 0.5;
+    float: left;
+}
+
+
+
+
+
+.footer-text
+{
+    padding:18px;
+    padding-left: 20px;
+      opacity: 1;
+      color: #d5d6d3;
+      text-align: center;
+     font-size: 1.4em;
+     font-family: 'Economica', sans-serif;
+
+    text-decoration: none;
+}
+
+.about-me-text
+{
+    padding:18px;
+    padding-left: 20px;
+      opacity: 1;
+      color: #d5d6d3;
+      text-align: center;
+     font-size:19;
+     font-family: 'Economica', sans-serif;
+
+    text-decoration: none;
+}
+
